@@ -1,6 +1,6 @@
 # How I was rejected by Microsoft
 
-## 6 interviews with Microsoft
+## 6 rounds of interviews with Microsoft
 
 ![Astonishment](https://image.shutterstock.com/image-photo/portrait-shocked-bearded-man-eyeglasses-260nw-1028337955.jpg)
 
