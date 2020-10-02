@@ -17,5 +17,5 @@
 **BB:**  Big Boss
 
 
-I wish I know how to improve and if there is always a 100% match requirement to recurit a guy in MS ...
-Any tips?
+I wish I know how to improve ...
+Is there always a 100% match requirement in management style to recurit a guy in MS? Any tips?
