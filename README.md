@@ -16,5 +16,5 @@
 
 
 
-## Is a perfect match in management style a must-have to work in MS? Any tips?
-## I wish I know how to improve ...
+### Is a perfect match in management style a must-have to work in MS?
+### I wish I know how to improve ...
