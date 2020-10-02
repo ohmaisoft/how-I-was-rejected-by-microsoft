@@ -16,5 +16,6 @@
 
 ----
 
-- Is a perfect match in management style a must-have to recurit a guy in MS? Any tips?
-- I wish I know how to improve ...
+## Is a perfect match in management style a must-have to recurit a guy in MS? Any tips?
+
+## I wish I know how to improve ...
