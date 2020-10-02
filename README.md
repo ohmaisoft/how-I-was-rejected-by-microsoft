@@ -1,6 +1,9 @@
 # How I was rejected by Microsoft
 
-A recent series of interview with Microsoft
+## A recent series of interview with Microsoft
+
+H: Hiring manager
+BB: Big Boss
 
 | # | Time                                   | Interviewer | Self Remarks        | HR and interviewers' feedback             |
 |---|----------------------------------------|-------------|---------------------|-------------------------------------------|
