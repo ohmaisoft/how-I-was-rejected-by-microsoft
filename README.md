@@ -12,8 +12,9 @@
 | 5 | Sep 10, 2020 8:00am - 9:00am           | D           |  **Congratualtions!** We are happy to proceed. |
 | 6 | Sep 10, 2020 9:00am - 10:00am          | BB          |  **The END.** Mistmatch in management style!   |
 
-H:   Hiring manager
-BB:  Big Boss
+**H:   Hiring manager
+
+**BB:  Big Boss
 
 
 I wish I know how to improve and if there is always a 100% match requirement to recurit a guy in MS ...
