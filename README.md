@@ -12,8 +12,9 @@
 | 5 | Sep 10, 2020 8:00am - 9:00am (HKT)         | D           |  **Congratualtions!**  We are happy to proceed.➼ |
 | 6 | Sep 10, 2020 9:00am - 10:00am (HKT)         | BB          |  **The END.**  Mistmatch in management style! 🔚  |
 
-- **H:**   Hiring manager
-- **BB:**  Big Boss
+**H:**   Hiring manager, **BB:**  Big Boss
+
+----
 
 - Is a perfect match in management style a must-have to recurit a guy in MS? Any tips?
 - I wish I know how to improve ...
