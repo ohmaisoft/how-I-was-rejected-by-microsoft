@@ -14,7 +14,7 @@
 
 **H:**   Hiring manager, **BB:**  Big Boss
 
-[](https://image.shutterstock.com/image-photo/portrait-shocked-bearded-man-eyeglasses-260nw-1028337955.jpg)
+![Astonishment](https://image.shutterstock.com/image-photo/portrait-shocked-bearded-man-eyeglasses-260nw-1028337955.jpg)
 ----
 
 ## Is a perfect match in management style a must-have to recurit a guy in MS? Any tips?
